@@ -1,7 +1,7 @@
 [![MasterHead](https://rinormaloku.com/wp-content/uploads/2018/02/loadbalancer.gif)](https://Thelazybones.io)
 <h1 align="center">Hi 👋, I'm Chandan</h1>
 <h3 align="center">A DevOps Engineer from India, passionate about developing production-ready applications with 7 + Years of Progressive IT experience.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thelazybones&label=Profile%20views&color=0e75b6&style=flat" alt="thelazybones" /> </p>
 
